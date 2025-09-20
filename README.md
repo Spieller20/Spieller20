@@ -82,8 +82,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом Ru»">](https://disk.yandex.ru/i/JVq6aoVhnSHiYA)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://disk.yandex.ru/i/3x2la7eayvYsyw)
+[<img src="/Diplom Ru.png" width="280px" hspace="10px" alt="Диплом Ru»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/Diplom%20Ru.png)
+[<img src="/Diplom En.png" width="280px" hspace="10px" alt="Диплом En»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/Diplom%20En.png)
 
 <br>
 <br>
