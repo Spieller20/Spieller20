@@ -74,10 +74,10 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/Lima Ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки (Lima Ru)»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/Lima%20Ru.png)
+[<img src="/Lima En.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки (Lima En)»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/Lima%20En.png)
+[<img src="/TourClick Workers Ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки (TourClick Workers Ru)»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/TourClick%20Workers%20Ru.png)
+[<img src="/TourClick Workers En.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки (TourClick Workers En)»">](https://raw.githubusercontent.com/Spieller20/Spieller20/refs/heads/main/TourClick%20Workers%20En.png)
 
 <br>
 
@@ -89,7 +89,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:GUF5518@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/IvanQA2025)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
